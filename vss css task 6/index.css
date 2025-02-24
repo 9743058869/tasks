@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.a{
+    background-color: aqua;
+    
+}
+h1{
+    color: blueviolet;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: rgba(255, 255, 255, 0.959);
+    font-weight: bold;
+}
+.fa-house{
+    background-color:rgba(255, 255, 0, 0.788);
+    width: 120px;
+    height: 150px;
+    font-size: 80px ;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding:8px 8px
+    
+}
+.fa-print{
+    background-color: rgba(128, 0, 128, 0.664);
+    width: 120px;
+    height: 150px;
+    font-size: 80px ;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding:8px 8px
+}
+.fa-square-poll-vertical{
+    background-color: pink;
+    width: 120px;
+    height: 150px;
+    font-size: 80px ;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding:8px 8px
+}
+.fa-whatsapp{
+    background-color:rgba(0, 128, 0, 0.795);
+    width: 120px;
+    height: 150px;
+    font-size: 80px ;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding:8px 8px
+}
+.fa-cloud{
+    background-color:rgba(255, 0, 0, 0.575);
+    width: 120px;
+    height: 150px;
+    font-size: 80px ;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding:8px 8px
+    
+}
+
+.b{
+    margin-top: 30px ;
+    margin-left: 350px;
+    
+}
+.am{
+    font-size: x-small;
+    font-weight: bold ;
+    padding: 20px;
+
+}
+.f{
+    background-color: red;
+    height: 100px;
+    width: 150px;
+    padding: 30px;
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 400px;
+    
+}
+.fa-user-graduate{
+    font-size: 40px;
+}
+
